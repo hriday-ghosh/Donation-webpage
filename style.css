@@ -1,0 +1,273 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    border: 0%;
+}
+
+/* 1st Section Start */
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 150px;
+    align-items: center;
+}
+
+/* .taka {
+        padding: 50px;
+        margin: 5px border:10px solid red;
+
+    } */
+
+.first-section {
+
+    background-image: url("images/donation7.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 669px;
+
+}
+
+.text-content {
+
+    text-align: center;
+    color: white;
+    padding-top: 174px;
+    width: 826px;
+    margin: 0 auto;
+
+
+}
+
+.text-content h1 {
+
+    font-size: 65px;
+    font-weight: 700;
+
+}
+
+.donate-button-1 {
+    color: white;
+    padding: 10px 15px;
+    background: #FF5959;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+/* 1st Section End */
+
+/* 2nd Section Start */
+
+.Donate-Area {
+    margin-top: 80px;
+    text-align: center;
+}
+
+.Donate-Area h1 {
+
+    font-size: 35px;
+    font-weight: 700px;
+
+}
+
+.Donate-Area p {
+
+    font-weight: 500px;
+    color: #707070;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+
+}
+
+.flexible-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.flexible-container h2 {
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    text-align: center;
+
+
+}
+
+.flexible-container .taka {
+    background-color: whitesmoke;
+    margin-left: 20px;
+    text-align: center;
+    padding: 14px 23px;
+}
+
+.donate-Plan {
+    background-color: #FFEEEE !important;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.taka {
+    height: 136px;
+    width: 123px;
+
+}
+
+.taka h2 {
+    margin-top: 60px;
+
+}
+
+hr {
+    width: 50%;
+    margin: 0 auto;
+}
+
+::placeholder {
+    text-align: center;
+    color: #B3B3B3;
+}
+
+#Donate-amount {
+    border: none;
+    outline: none;
+    padding-bottom: 10px;
+}
+
+.our-donate-plan-text {
+    margin-top: 10px;
+
+}
+
+.all-cards {
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+}
+
+.cardbody {
+    width: 30%;
+    margin-left: 15px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.first-card {
+    background: rgba(79, 157, 166, 0.1);
+
+}
+
+
+.second-card {
+    background: rgba(255, 89, 89, 0.1);
+
+
+}
+
+
+.third-card {
+    background-color: #faedcd;
+}
+
+.icon {
+    padding: 55px 0 0 25px;
+
+}
+
+.text {
+    padding: 10px 0 0 25px;
+
+}
+
+.text p {
+
+    padding-bottom: 55px;
+    font-weight: 500px;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.bottom-text h1 {
+    text-align: center;
+    margin-top: 90px;
+}
+
+.bottom-text p {
+    text-align: center;
+    margin-top: 20px;
+    line-height: 30px;
+    padding-bottom: 40px;
+}
+
+.bottom-email {
+    background-color: #FFF4D6;
+    text-align: center;
+    padding: 60px 0;
+    width: 70%;
+    margin: auto;
+}
+
+#Email {
+
+    padding: 5px 8px;
+    border: 0;
+    outline: none;
+}
+
+::placeholder {
+    text-align: left;
+}
+
+.button-style {
+    display: inline-block;
+    margin-right: 25px;
+}
+
+.bottom-email button {
+    background-color: tomato;
+    display: inline-block;
+    padding: 4px 10px;
+    font-size: 16px;
+    border: none;
+    color: whitesmoke;
+}
+
+.humble {
+    text-align: center;
+    padding: 50p x 20px;
+    background-color: black;
+    color: #FF5959;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+footer p {
+    text-align: center;
+    color: white;
+    font-size: 10px;
+    font-weight: 400px;
+}
