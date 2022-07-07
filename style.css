@@ -271,3 +271,68 @@ footer p {
     font-size: 10px;
     font-weight: 400px;
 }
+
+.box-page {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.box-content {
+
+    width: 70%;
+    height: auto;
+    padding-left: 150px;
+}
+
+.box-content h1 {
+
+    font-size: 25px;
+
+}
+
+.box-content p {
+
+    font-size: 15px;
+
+
+}
+
+.box-image {
+    width: 30%;
+    margin-right: 250px;
+
+}
+
+.box-image2 {
+
+    margin-left: 50px;
+
+}
+
+.box-image img {
+    border-radius: 12px;
+}
+
+.box-image2 img {
+    border-radius: 12px;
+}
+
+.box-page2 {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.box-content2 {
+
+    width: 50%;
+    height: auto;
+    padding-left: 20px;
+   
+
+}
